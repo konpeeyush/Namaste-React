@@ -38,6 +38,7 @@ const HeadingComponent = () => {
   );
 };
 
+
 // console.log(HeadingComponent)
 
 root.render(<HeadingComponent />);
