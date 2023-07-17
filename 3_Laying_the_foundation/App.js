@@ -16,6 +16,7 @@ const jsxHeading = (
   </h1>
 );
 
+
 const TitleComponent = () => {
   return <h1>Functional Component Title</h1>;
 };
@@ -39,6 +40,25 @@ const HeadingComponent = () => {
 };
 
 
-// console.log(HeadingComponent)
+console.log(HeadingComponent)
+console.log(heading);
+console.log(jsxHeading);
 
-root.render(<HeadingComponent />);
+
+function Welcome(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+const name = 'John';
+
+// Using {Component}
+const element1 = <Welcome name={name} />;
+
+// Using <Component/>
+const element2 = <Welcome name={name} />;
+
+// Using <Component></Component>
+const element3 = <Welcome name={name}>Extra Content</Welcome>;
+
+
+root.render([element1, element2, element3]);
