@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "restaurant_name": "Dr",
+        "cuisine_type": "Chinese",
+        "rating": 1.8,
+        "price_range": "$$$",
+        "location": "5 Magdeline Park"
+    },
+    {
+        "id":2,
+        "restaurant_name": "Mrs",
+        "cuisine_type": "Indian",
+        "rating": 4.0,
+        "price_range": "$",
+        "location": "8596 Express Point"
+    },
+    {
+        "id":3,
+        "restaurant_name": "Rev",
+        "cuisine_type": "Mexican",
+        "rating": 4.8,
+        "price_range": "$$$$",
+        "location": "7245 International Plaza"
+    },
+    {
+        "id":4,
+        "restaurant_name": "Honorable",
+        "cuisine_type": "Japanese",
+        "rating": 1.1,
+        "price_range": "$",
+        "location": "15185 Warrior Street"
+    },
+    {
+        "id":5,
+        "restaurant_name": "Mr",
+        "cuisine_type": "Italian",
+        "rating": 1.0,
+        "price_range": "$$",
+        "location": "60891 Chive Center"
+    },
+    {
+        "id":6,
+        "restaurant_name": "Dr",
+        "cuisine_type": "Japanese",
+        "rating": 1.5,
+        "price_range": "$",
+        "location": "78626 Sommers Trail"
+    },
+    {
+        "id":7,
+        "restaurant_name": "Mr",
+        "cuisine_type": "Indian",
+        "rating": 3.6,
+        "price_range": "$$$$",
+        "location": "6 Milwaukee Place"
+    },
+    {
+        "id":8,
+        "restaurant_name": "Rev",
+        "cuisine_type": "Indian",
+        "rating": 3.1,
+        "price_range": "$$$$",
+        "location": "47 Main Parkway"
+    },
+    {
+        "id":9,
+        "restaurant_name": "Dr",
+        "cuisine_type": "Japanese",
+        "rating": 0.0,
+        "price_range": "$$$",
+        "location": "49311 Eagan Center"
+    },
+    {
+        "id":10,
+        "restaurant_name": "Ms",
+        "cuisine_type": "Indian",
+        "rating": 2.8,
+        "price_range": "$",
+        "location": "123 Forster Lane"
+    },
+    {
+        "id":11,
+        "restaurant_name": "Honorable",
+        "cuisine_type": "Mexican",
+        "rating": 0.3,
+        "price_range": "$",
+        "location": "282 Lakewood Gardens Court"
+    },
+    {
+        "id":12,
+        "restaurant_name": "Dr",
+        "cuisine_type": "Chinese",
+        "rating": 0.1,
+        "price_range": "$$",
+        "location": "8 Fairview Pass"
+    }
+]
