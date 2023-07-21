@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "restaurant_name": "Golden Dragon",
+        "cuisine_type": "Chinese",
+        "rating": 1.8,
+        "price_range": 4, 
+        "location": "5 Magdeline Park"
+    },
+    {
+        "id": 2,
+        "restaurant_name": "Spice Delight",
+        "cuisine_type": "Indian",
+        "rating": 4.0,
+        "price_range": 1, 
+        "location": "8596 Express Point"
+    },
+    {
+        "id": 3,
+        "restaurant_name": "Salsa Fiesta",
+        "cuisine_type": "Mexican",
+        "rating": 4.8,
+        "price_range": 4, 
+        "location": "7245 International Plaza"
+    },
+    {
+        "id": 4,
+        "restaurant_name": "Sakura Garden",
+        "cuisine_type": "Japanese",
+        "rating": 1.1,
+        "price_range": 1, 
+        "location": "15185 Warrior Street"
+    },
+    {
+        "id": 5,
+        "restaurant_name": "La Cucina",
+        "cuisine_type": "Italian",
+        "rating": 1.0,
+        "price_range": 2, 
+        "location": "60891 Chive Center"
+    },
+    {
+        "id": 6,
+        "restaurant_name": "Tokyo Breeze",
+        "cuisine_type": "Japanese",
+        "rating": 1.5,
+        "price_range": 1, 
+        "location": "78626 Sommers Trail"
+    },
+    {
+        "id": 7,
+        "restaurant_name": "Masala Junction",
+        "cuisine_type": "Indian",
+        "rating": 3.6,
+        "price_range": 4, 
+        "location": "6 Milwaukee Place"
+    },
+    {
+        "id": 8,
+        "restaurant_name": "Namaste Flavors",
+        "cuisine_type": "Indian",
+        "rating": 3.1,
+        "location": "47 Main Parkway"
+    },
+    {
+        "id": 9,
+        "restaurant_name": "Sushi Paradise",
+        "cuisine_type": "Japanese",
+        "rating": 0.0,
+        "price_range": 3, 
+        "location": "49311 Eagan Center"
+    },
+    {
+        "id": 10,
+        "restaurant_name": "Curry House",
+        "cuisine_type": "Indian",
+        "rating": 2.8,
+        "price_range": 1, 
+        "location": "123 Forster Lane"
+    },
+    {
+        "id": 11,
+        "restaurant_name": "El Ranchito",
+        "cuisine_type": "Mexican",
+        "rating": 0.3,
+        "price_range": 1, 
+        "location": "282 Lakewood Gardens Court"
+    },
+    {
+        "id": 12,
+        "restaurant_name": "Peking Palace",
+        "cuisine_type": "Chinese",
+        "rating": 0.1,
+        "price_range": 2,
+        "location": "8 Fairview Pass"
+    }
+]
